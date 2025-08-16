@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 line1
+=======
+line 3 after first push for branch
+>>>>>>> test_remote_repo
